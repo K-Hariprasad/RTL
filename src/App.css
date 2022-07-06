@@ -1,0 +1,7 @@
+.App{
+  background-color: teal;
+}
+.app-container{
+  max-width: 1024px;
+  margin: 0 auto;
+}
